@@ -11,6 +11,9 @@
   I enjoy squash, Baduk and computer game. <br/>
   My goal is to develop services that will make life easier.. ✨ <br/><br/>
 </p>
+<p align="center">
+  <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome Lists"></a>
+</p>
 
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jun7892&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jun7892&layout=compact&hide_border=true&theme=white)
   
