@@ -1,16 +1,16 @@
 <div align=center> 
-  <p>
-  <a href="https://medium.com/@sh98022000" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
-  <a href="mailto:sh98022000@gmail.com" target="_blank"><img src="https://img.shields.io/badge/sh98022000@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/%ED%9B%88%ED%9D%AC-%EA%B9%80//" target="_blank"><img src="https://img.shields.io/badge/Jun7892-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-  
-</p>
+
   <br>  
-<p>
-  Hello I am a new developer specializing in machine learning.<br/>
-  We are working on it based on Python DJango.<br/><br/>
-  I enjoy squash, Baduk and computer game. <br/>
-  My goal is to develop services that will make life easier.. ✨ <br/><br/>
+
+  <h2>Time is Gold<br/></h2>
+  
+  
+<P>
+  Carpe Diem, Seize the day. Make your lives extraordinary.<br/><br/>
+  <br/><br/>
+  If Im not gonna be the TOP, I didn't even start
+  The first step on a long journey to be the best<br/><br/>
+  
 </p>
   <br>  
 <p align="center">
@@ -18,6 +18,9 @@
 </p>
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jun7892&show_icons=true&theme=radical)
+
+<br></br>
+
 
 
   
