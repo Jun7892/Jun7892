@@ -8,7 +8,7 @@
 <P>
   Carpe Diem, Seize the day. Make your lives extraordinary.<br/><br/>
   <br/><br/>
-  If Im not gonna be the TOP, I didn't even start
+  If Im not gonna be the TOP, I didn't even start<br/>
   The first step on a long journey to be the best<br/><br/>
   
 </p>
