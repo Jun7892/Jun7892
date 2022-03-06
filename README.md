@@ -47,6 +47,7 @@
   <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
       <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
+  <img src="https://img.shields.io/badge/sqlite-092E20?style=for-the-badge&logo=sqlite&logoColor=white">
   <br>
 </p>
 
@@ -55,6 +56,7 @@
   <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/sourcetree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=white">
   <img src="https://img.shields.io/badge/Amazon S3-FF9E0F?style=for-the-badge&logo=Amazon S3&logoColor=white">
+  <img src="https://img.shields.io/badge/mysql-3776AB?style=for-the-badge&logo=mysql&logoColor=white"> 
 </p>
 </div>
 </div>
