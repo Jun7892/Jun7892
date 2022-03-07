@@ -56,7 +56,7 @@
   <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/sourcetree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=white">
   <img src="https://img.shields.io/badge/Amazon S3-FF9E0F?style=for-the-badge&logo=Amazon S3&logoColor=white">
-  <img src="https://img.shields.io/badge/mysql-E34F26?style=for-the-badge&logo=mysql&logoColor=white"> 
+  <img src="https://img.shields.io/badge/MySQL-E34F26?style=for-the-badge&logo=MySQL&logoColor=white"> 
 </p>
 </div>
 </div>
