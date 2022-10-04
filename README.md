@@ -6,7 +6,7 @@
     
   
 <P>
-  Crazy guys win   Weary guys lose<br/><br/>
+  CRAZY GUYS WIN<br/><br/>
   <br/>
   If Im not gonna be the TOP, I didn't even start<br/><br/>
 <!--   The first step on a long journey to be the best<br/><br/> -->
