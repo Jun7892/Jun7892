@@ -6,9 +6,9 @@
     
   
 <P>
-  CRAZY GUYS WIN<br/><br/>
+  <br/><br/>
   <br/>
-  If Im not gonna be the TOP, I didn't even start<br/><br/>
+  <br/><br/>
 <!--   The first step on a long journey to be the best<br/><br/> -->
   
 </p>
