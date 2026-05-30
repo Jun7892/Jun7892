@@ -14,7 +14,7 @@
 </p>
   <br>  
 <p align="center">
-  <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome Lists"></a>
+
 </p>
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jun7892&show_icons=true&theme=radical)
