@@ -3,32 +3,32 @@
   <br>                                                                                                                          
      
   <h2>Jun<br/></h2>       
-    
-  
+
+
 <P>
   <br/><br/>
   <br/>
   <br/><br/>
 <!--   The first step on a long journey to be the best<br/><br/> -->
-  
+
 </p>
   <br>  
 <p align="center">
+  <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome Lists"></a>
 
 </p>
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jun7892&show_icons=true&theme=radical)
-
+  
 <br></br>
 
 
 
-  
- 
 
 
-  
-  
+
+
+
+
 
 ## Platforms & Languages
 
